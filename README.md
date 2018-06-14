@@ -1,4 +1,5 @@
-""" This is my solution to problem set of MIT OCW 6.0001.
+""" Hello!
+	This is my solution to problem set of MIT OCW 6.0001.
 	I preserved all comments left by the TA so that you can differentiate which parts are written by me."""
 
 PS1c is my first step to python and coding. It calculates the saving per month for your goal such as a house. I learned to use:
@@ -25,6 +26,7 @@ In PS4c, I am capable of delivering a secret message. I wrote a code to encrypt/
 	Meaning of object-oriented programming
   
 Finally, the PS5 is a RSS reader for google news. It allows users to filter specific information from the website. It took a lot of time to debug. I found that the bisection search is very useful while debugging.
+
 	Practice of object oriented programming
 	Bisection search in debugging
 	
