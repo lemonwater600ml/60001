@@ -29,6 +29,7 @@ Finally, the PS5 is a RSS reader for google news. It allows users to filter spec
 
 	Practice of object oriented programming
 	Bisection search in debugging
+	Complexity and Big O notation
 	
 
 For more information about MIT 6.0001. Please visit
