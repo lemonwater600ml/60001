@@ -24,8 +24,9 @@ In PS4c, I am capable of delivering a secret message. I wrote a code to encrypt/
 	Class, storing information, and creating specific method
 	Meaning of object-oriented programming
   
-Finally, the PS5 is a RSS reader for google news. It allows users to filter specific information from the website. 
+Finally, the PS5 is a RSS reader for google news. It allows users to filter specific information from the website. It took a lot of time to debug. I found that the bisection search is very useful while debugging.
 	Practice of object oriented programming
+	Bisection search in debugging
 	
 
 For more information about MIT 6.0001. Please visit
