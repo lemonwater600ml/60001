@@ -1,0 +1,37 @@
+// trigger file - if you've done problem 9 but no stories are popping up, you
+
+// should edit this file to contain triggers that will fire on current news
+
+// stories!
+
+
+// title trigger named Tit
+Tit,TITLE,the presidential debate
+// description trigger named DTrump
+DTrump,DESCRIPTION,Trump
+
+
+// description trigger named DClinton
+DClinton,DESCRIPTION,Clinton
+
+
+// after trigger named TimSta
+
+TimSta,AFTER,19 Oct 2016 16:00:00
+
+// before trigger named TimEnd
+TimEnd,BEFORE,19 Oct 2016 22:00:00
+ 
+
+// composite trigger named t4
+
+Time,AND,TimSta,TimEnd
+
+// composite trigger named t4
+
+Desc,AND,DTrump,DClinton
+
+
+// the trigger list contains t1 and t4
+
+ADD,Tit,Time,Desc
