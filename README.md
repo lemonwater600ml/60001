@@ -24,7 +24,9 @@ In PS4c, I am capable of delivering a secret message. I wrote a code to encrypt/
 	Class, storing information, and creating specific method
 	Meaning of object-oriented programming
   
-I'm working on PS5. Estimated to push by Jun. 12.
+Finally, the PS5 is a RSS reader for google news. It allows users to filter specific information from the website. 
+	Practice of object oriented programming
+	
 
 For more information about MIT 6.0001. Please visit
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/index.htm
